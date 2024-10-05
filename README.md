@@ -29,3 +29,5 @@ See EXAMPLES.md file
 
 # Prompting Strategies Used
 
+Zero-shot Text-to-SQL was the main prompting strategy I used. My database was simple enough where Chat-GTP had no issues with generating queries. 
+

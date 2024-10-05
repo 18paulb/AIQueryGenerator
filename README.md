@@ -22,3 +22,7 @@ HAVING COUNT(Superhero_Power.power_id) = 1;
 
 ### Response
 "The query result is: Iron Man."
+
+
+# Other Examples
+See EXAMPLES.md file

@@ -26,3 +26,6 @@ HAVING COUNT(Superhero_Power.power_id) = 1;
 
 # Other Examples
 See EXAMPLES.md file
+
+# Prompting Strategies Used
+
